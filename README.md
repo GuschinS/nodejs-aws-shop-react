@@ -2,7 +2,7 @@
 https://02-serving-spa-guschins.s3.eu-west-1.amazonaws.com/index.html
 
 ### CloudFront
-https://diofnp3m9i6l5.cloudfront.net/
+https://d1ppvz70xd94zo.cloudfront.net
 
 ### Bucket policy
 ``````
